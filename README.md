@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,react,vite" />
+  </a>
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb2e0&size=35&center=true&vCenter=true&width=1000&lines=text+:%29)
