@@ -1,25 +1,11 @@
 ## Hi there 👋
 
-<!--
-**eccc0/eccc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,react,vite" />
   </a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb2e0&size=35&center=true&vCenter=true&width=1000&lines=text+:%29)
+
