@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>Knowledges</strong>
+  <strong>Knowledges:</strong>
 <p>
 
 <p align="center">
